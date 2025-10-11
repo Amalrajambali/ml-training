@@ -1,1 +1,2 @@
-print("My second file", 5+5)
+print("My second file", 5+10)
+print("hello world")
